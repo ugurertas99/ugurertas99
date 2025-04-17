@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🤝 I’m always open to sharing knowledge and learning from others.
 
 ## 🔧 Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++, TypeScript
-- **Frontend:** React, Angular, HTML5, CSS3
+- **Languages:** JavaScript, Python, Java, C#, TypeScript
+- **Frontend:** React, HTML5, CSS3
 - **Backend:** Node.js, Express, Django, Spring Boot
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **DevOps:** Docker, Kubernetes, CI/CD Pipelines
@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![Ugur Ertas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurertas99&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me:
-- **Email:** [ugurertas99@example.com](mailto:ugurertas99@example.com)
-- **LinkedIn:** [linkedin.com/in/ugurertas99](https://linkedin.com/in/ugurertas99)
-- **Twitter:** [@ugurertas99](https://twitter.com/ugurertas99)
+- Email: ugurertas99@gmail.com
+- LinkedIn: https://www.linkedin.com/in/u%C4%9Fur-erta%C5%9F-ba372814a/
+
 
 ---
 
