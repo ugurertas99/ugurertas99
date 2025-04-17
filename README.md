@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Ugur Ertas
 
-<!--
-**ugurertas99/ugurertas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building innovative and efficient solutions. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning new technologies and exploring advanced programming paradigms.
+- 💻 I enjoy working on **open-source projects** and collaborating with the developer community.
+- 🎓 I have a strong foundation in programming and software engineering principles.
+- 🤝 I’m always open to sharing knowledge and learning from others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript, Python, Java, C++, TypeScript
+- **Frontend:** React, Angular, HTML5, CSS3
+- **Backend:** Node.js, Express, Django, Spring Boot
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **DevOps:** Docker, Kubernetes, CI/CD Pipelines
+- **Others:** Git, Bash, RESTful APIs, GraphQL
+
+## 📈 GitHub Stats
+![Ugur Ertas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurertas99&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me:
+- **Email:** [ugurertas99@example.com](mailto:ugurertas99@example.com)
+- **LinkedIn:** [linkedin.com/in/ugurertas99](https://linkedin.com/in/ugurertas99)
+- **Twitter:** [@ugurertas99](https://twitter.com/ugurertas99)
+
+---
+
+🤩 Feel free to check out my repositories and collaborate on exciting projects. Let’s make the tech world better together!
